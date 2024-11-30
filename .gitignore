@@ -1,18 +1,27 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
-# Other files and folders
-.settings/
+# Environment variables
 .env
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Streamlit
+.streamlit/
+
+# Virtual environment
+venv/
+*.venv/
+env/
+
+# Dependencies and distribution
+*.egg-info/
+dist/
+build/
+
+# Logs and temp files
+*.log
+
+# Temporary files (e.g., Vim, Emacs, etc.)
+*.swp
