@@ -1,4 +1,4 @@
-```markdown
+
 # Constitutional Chatbot 🏛️
 
 This repository contains a **Chatbot** powered by **RAG (Retrieval-Augmented Generation)**, implemented in **Python**, and deployed using **Streamlit**. The chatbot is designed to provide comprehensive answers related to constitutional information by leveraging advanced retrieval techniques and large language model (LLM) capabilities.
